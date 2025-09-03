@@ -1,1 +1,2 @@
 # Sleep-detector
+This project utilizes libraries like, Media pipe and cv2 to track the distance between upper and lower eyelid and then uses the python math library to calculate the EAR (Eye Aspect Ratio) to determine, whether the eyes are closed or not and then sends the output to the arduino using the py serial library, the arduino displays the result on the LCD
